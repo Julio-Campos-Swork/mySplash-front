@@ -431,17 +431,17 @@
 		justify-content: left;
 		align-items: center;
 		opacity: 1 !important;
-		color: #000000;
+		color: #faf7f7;
 		position: absolute;
 		bottom: 0;
 		left: 0;
 		right: 0;
 		padding: 8px;
-		font-size: 18px;
+		font-size: 24px;
 		font-weight: 900;
 
 		pointer-events: none;
-		text-shadow: -1px -1px 0 #ffffff;
+		text-shadow: -1px -1px 0 #d66262;
 	}
 
 	.button {
